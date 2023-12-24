@@ -5,7 +5,7 @@
 
 
 
-- [Demo Project](https://aliafrouz.github.io/realProject_CV1/)
+- [Demo Project](https://alinajafi-developer.github.io/realProject_CV1/)
 
 - Developed by Ali Najafi
 
